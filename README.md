@@ -2,9 +2,13 @@
 A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functional for the M.U.G.E.N. engine oriented to 2D fighting videogames.
 
 ## Author 👤
+* -Sprites
 **Luis Ángel Sánchez Aguilar**
 
 * [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+
+## Demonstration video 🕹
+
 
 ## Main Files description 📘
 
