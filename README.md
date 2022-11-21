@@ -2,10 +2,10 @@
 A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functional for the M.U.G.E.N. engine oriented to 2D fighting videogames.
 
 ## Authors 👤
-**Luis Ángel Sánchez Aguilar (Bills Dios)** -> Coding, moveset, design, implementation, Naruto sprites
-
-    <a href="https://www.linkedin.com/in/sanchezluismachinelearning/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanchezluismachinelearning/" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bills dios" height="30" width="40" /></a>
+* **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Coding, moveset, design, implementation, Naruto sprites
+    *[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+<a href="https://www.linkedin.com/in/sanchezluismachinelearning/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanchezluismachinelearning/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bills dios" height="30" width="40" /></a>
 </p>  
   
   
