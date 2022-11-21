@@ -18,7 +18,7 @@ A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functio
 
 ## Demonstration Video (Gameplay) 🕹
 
-[![Alt text](https://img.youtube.com/vi/vDToUe3tNJE&ab/0.jpg)](https://www.youtube.com/watch?v=vDToUe3tNJE&ab_channel=BillsDios)
+[![Alt text](https://img.youtube.com/vi/vDToUe3tNJE&ab_channel=BillsDios/0.jpg)](https://www.youtube.com/watch?v=vDToUe3tNJE&ab_channel=BillsDios)
 
 https://www.youtube.com/watch?v=vDToUe3tNJE&ab_channel=BillsDios
 
