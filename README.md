@@ -5,6 +5,7 @@ A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functio
 * **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Coding, moveset, design, implementation, Naruto sprites
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+    
     -[YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
   
   
