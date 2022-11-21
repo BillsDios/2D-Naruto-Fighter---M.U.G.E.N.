@@ -2,17 +2,17 @@
 A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functional for the M.U.G.E.N. engine oriented to 2D fighting videogames.
 
 ## Authors 👤
-* **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Coding, moveset, design, implementation, Naruto sprites
+* **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Naruto code, Kurama code, moveset, design, implementation, Naruto sprites
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
     
     -[YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
   
-* **Pierre Mings** -> Kurama Sprites
+* **Pierre Mings** -> Kurama sprites
 
     -[Pinterest](https://co.pinterest.com/pierremings/)
 
-* **Mikel8888** -> Kurama Sprites, FX Sprites
+* **Mikel8888** -> Kurama code, Kurama sprites, FX sprites
 
     -[YouTube](https://www.youtube.com/channel/UCd2I8bSZkJPmHayxFHr5lnA)
 
