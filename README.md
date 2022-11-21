@@ -18,16 +18,31 @@ A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functio
 
 ## Main Files description 📘
 
-* **[spiderbotCodigo.m]**: This file can be run in Matlab software. The code consists of finding the position of the leg joints of a spider robot in three-dimensional space. It is the most basic file and has no graphical interface.  
+* **[1.act]**: This file stores the color palette of the character.  
 
-* **[spiderbotApp.mlapp]**: This file can be executed in Matlab using App Designer. The file contains both the functional code as well as the graphical user interface. This file consists of finding the position of the leg of a robot spider according to the angle of the joints that can be modified by sliders, making a wireframe sketch.
+* **[Combos y Tecnicas.cns]**: This file is the programming code for the character's special powers in the base state of the anime.
 
-Note: Both files are independent. You can use one or the other depending on whether you want a graphical interface or not.
+* **[common1.cns]**: This file is the programming code for the character's basic movements such as standing, crouching, walking, running, jumping and falling.
 
+* **[Kage Bunshin.cns]**: This file is the programming code for the behavior of Naruto's shadow clones.
 
-## Folders description 📁
+* **[KCM-Combos y Tecnicas.cns]**: This file is the programming code for the character's attacks, combos and special powers in the Kurama Chakra Mode (KCM) of the anime.
 
-* **[imagenes]**: This folder contains all the necessary images that are called by the spiderbotApp.mlapp file
+* **[Kyubi Invocacion.cns]**: This file is the programming code for the behavior of the Kyubi or Kurama summoned by Naruto.
+
+* **[Naruto Nanadaime.def]**: This file is the definition file and calls the rest of the character files, such as code, sprites, sounds, palettes, commands and others.
+
+* **[Naruto.act]**: This file stores the color palette of the character.
+
+* **[Naruto.air]**: This file stores all the animations of the character.
+
+* **[Naruto.cmd]**: This file contains the logic and the calling of certain programming blocks by means of commands, such as keyboard or joystick.
+
+* **[Naruto.cns]**: This file is the programming code for the character's attacks and combos in the base state of the anime.
+
+* **[Naruto.sff]**: This file stores all the sprites of the character.
+
+* **[Naruto.snd]**: This file stores all the sounds of the character.
 
 ## Hiring 🤝🏿
 
