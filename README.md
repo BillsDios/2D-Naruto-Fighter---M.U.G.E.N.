@@ -4,8 +4,8 @@ A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functio
 ## Authors 👤
 - **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Coding, moveset, design, implementation, Naruto sprites
 
-* [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
-* [YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
+*- [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+*- [YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
 
 - **Pierre Mings** -> Kurama Sprites
 - **Mikel8888** -> Kurama Sprites, FX Sprites
