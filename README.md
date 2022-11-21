@@ -1,4 +1,4 @@
-# 2D Naruto Fighter - M.U.G.E.N. 🥋
+# 2D Naruto Hokage Fighter - M.U.G.E.N. 🥋
 A graphical user interface that displays the current position of a mechanism that emulates a spider's leg based on the angle of the joints. 
 
 ## Author 👤
