@@ -1,11 +1,17 @@
 # 2D Naruto Hokage Fighter - M.U.G.E.N. 🥋
 A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functional for the M.U.G.E.N. engine oriented to 2D fighting videogames.
 
-## Author 👤
-* - Sprites:
-**Luis Ángel Sánchez Aguilar**
+## Authors 👤
+- **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Coding, moveset, design, implementation, Naruto sprites
 
 * [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+* [YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
+
+- **Pierre Mings** -> Kurama Sprites
+- **Mikel8888** -> Kurama Sprites, FX Sprites
+
+## Contacts 👤
+
 
 ## Main Files description 📘
 
