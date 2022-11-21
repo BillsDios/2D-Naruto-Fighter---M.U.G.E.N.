@@ -8,10 +8,13 @@ A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functio
     
     -[YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
   
-  
-**Pierre Mings** -> Kurama Sprites
+* **Pierre Mings** -> Kurama Sprites
 
-**Mikel8888** -> Kurama Sprites, FX Sprites
+    -[Pinterest](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
+
+* **Mikel8888** -> Kurama Sprites, FX Sprites
+
+    -[YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
 
 ## Contacts 👤
 
