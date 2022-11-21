@@ -16,7 +16,13 @@ A 2D fighter based on the Naruto Hokage character from the anime Naruto. Functio
 
     -[YouTube](https://www.youtube.com/channel/UCd2I8bSZkJPmHayxFHr5lnA)
 
-## Main Files description 📘
+## Demonstration Video (Gameplay) 🕹
+
+[![Alt text](https://img.youtube.com/vi/vDToUe3tNJE&ab/0.jpg)](https://www.youtube.com/watch?v=vDToUe3tNJE&ab_channel=BillsDios)
+
+https://www.youtube.com/watch?v=vDToUe3tNJE&ab_channel=BillsDios
+
+## Main Files Description 📘
 
 * **[1.act]**: This file stores the color palette of the character.  
 
